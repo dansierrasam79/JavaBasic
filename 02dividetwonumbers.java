@@ -25,3 +25,4 @@ inputnow.close();
 Main outputObject = new Main(a,b);
 System.out.print("After dividing the two numbers we get: " + outputObject.divideNumbers());
 }
+}
