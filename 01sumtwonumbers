@@ -15,7 +15,7 @@ public int twoNumbersAdd(){
 return this.firstNum + this.secondNum;
 }
 public static void main(String[] args) {
-// Print the sum of two numbers using Scanner integer inputs4
+// Print the sum of two numbers using Scanner integer inputs
 System.out.println("Enter the first number: ");
 Scanner input = new Scanner(System.in);
 int a = input.nextInt();
