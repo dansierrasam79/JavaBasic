@@ -1,4 +1,4 @@
-/*106. Write a Java program to check if an array of integers contains three increasing adjacent
+/* Write a Java program to check if an array of integers contains three increasing adjacent
 numbers.
 */
 class Main {
